@@ -162,3 +162,6 @@ Sk Mohiddin
 
 GitHub:
 https://github.com/skmohiddin-5/Personalized-Networking-Assistant
+
+Demo:
+https://personalized-networking-assistant-app6peeeqbqkdlsygkq5eah.streamlit.app/
