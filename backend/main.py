@@ -1,9 +1,9 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 
-from backend.model import generate_starters
-from backend.wiki import get_fact
-from backend.history import save_history, load_history
+from model import generate_starters
+from wiki import get_fact
+from history import save_history, load_history
 
 app = FastAPI()
 
