@@ -1,8 +1,8 @@
 fastapi
 uvicorn
-streamlit
-requests
-wikipedia
 transformers
 torch
-pytest
+wikipedia
+requests
+pydantic
+python-multipart
